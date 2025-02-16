@@ -1,14 +1,14 @@
-.body-style{
+.bodystyle{
     background: black;
 }
-.header-1{
+.header1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     font-style: italic;
     color: white;
 }
 
-.font-type1{
+.fonttype1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: yellowgreen;
 }
